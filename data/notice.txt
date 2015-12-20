@@ -1,0 +1,8 @@
+The dataset is so large for uploading, to download other dataset, please land site: http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+Dataset including:
+1. IMAGES.mat
+2. IMAGES_RAW.mat
+3. pcaData
+4. stlSampledPatches.mat
+5. stlTestSubset.mat
+6. stlTrainSubset.mat
